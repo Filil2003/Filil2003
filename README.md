@@ -18,38 +18,27 @@
 ### I code with:
 
 <span>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,vite,vitest,jest,nodejs,express,py,docker,yarn,git,webstorm,ubuntu,windows&perline=5">
+    <img alt src="https://skillicons.dev/icons?i=js,ts,html,css,react,git,gitlab,vite,nodejs,express,pnpm,yarn,figma,webstorm,windows&perline=4">
 </span>
-<span>
+<span aria-hidden="true">
     <span>                </span>
-    <a href="assets/easter-egg.jpg" target="_blank">
-        <img src="assets/meme.gif" height="220">
-    </a>
+    <img alt src="assets/meme.gif" height="220" >
 </span>
 
-### My Stats:
+### My stats:
 
 <picture >
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Filil2003&theme=github_dark&hide_border=true&disable_animations=true&card_width=320"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Filil2003&theme=default&hide_border=true&disable_animations=true&card_width=320"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=Filil2003&theme=transparent&hide_border=true&disable_animations=true&card_width=320" />
+  <img alt src="https://github-readme-stats.vercel.app/api/top-langs?username=Filil2003&theme=default&hide_border=true&disable_animations=true&card_width=320" />
 </picture>
-
 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filil2003&theme=github_dark&hide_border=true&langs_count=8&disable_animations=true&hide_progress=true"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filil2003&theme=default&hide_border=true&langs_count=8&disable_animations=true&hide_progress=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Filil2003&theme=transparent&hide_border=true&langs_count=8&disable_animations=true&hide_progress=true" />
+  <img alt src="https://github-readme-stats.vercel.app/api/wakatime?username=Filil2003&theme=default&hide_border=true&langs_count=8&disable_animations=true&hide_progress=true" />
 </picture>
