@@ -26,24 +26,6 @@
   <img alt src="assets/meme.gif" height="220" >
 </span>
 
-### My stats:
-
-<picture >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Filil2003&theme=github_dark&hide_border=true&disable_animations=true&card_width=320"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img alt src="https://github-readme-stats.vercel.app/api/top-langs?username=Filil2003&theme=default&hide_border=true&disable_animations=true&card_width=320" />
-</picture>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Filil2003&theme=github_dark&hide_border=true&langs_count=8&disable_animations=true&hide_progress=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img alt src="https://github-readme-stats.vercel.app/api/wakatime?username=Filil2003&theme=default&hide_border=true&langs_count=8&disable_animations=true&hide_progress=true" />
-</picture>
-
 ### My projects:
 
 <table>
