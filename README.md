@@ -2,12 +2,6 @@
 
 ### Check out my resume:
 
-<a href="https://disk.yandex.ru/i/7e5pf0Wt9k8-Xg" title="View resume on Yandex Drive">
-  <picture>
-    <img alt src="./assets/badges/yandex-drive.svg" width="180" />
-  </picture>
-</a>
-<span> </span>
 <a href="https://drive.google.com/file/d/1PWmD7lq_-U3E-9Zq90rCmgGJoK7YILs-/view?usp=drive_link" title="View resume on Google Drive">
   <picture>
     <img alt src="./assets/badges/google-drive.svg" width="180" />
